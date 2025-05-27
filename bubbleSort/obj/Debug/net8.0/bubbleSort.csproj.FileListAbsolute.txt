@@ -1,0 +1,15 @@
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/obj/Debug/net8.0/bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/obj/Debug/net8.0/bubbleSort.AssemblyInfoInputs.cache
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/obj/Debug/net8.0/bubbleSort.AssemblyInfo.cs
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/obj/Debug/net8.0/bubbleSort.csproj.CoreCompileInputs.cache
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/obj/Debug/net8.0/bubbleSort.sourcelink.json
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/bin/Debug/net8.0/bubbleSort
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/bin/Debug/net8.0/bubbleSort.deps.json
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/bin/Debug/net8.0/bubbleSort.runtimeconfig.json
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/bin/Debug/net8.0/bubbleSort.dll
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/bin/Debug/net8.0/bubbleSort.pdb
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/obj/Debug/net8.0/bubbleSort.dll
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/obj/Debug/net8.0/refint/bubbleSort.dll
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/obj/Debug/net8.0/bubbleSort.pdb
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/obj/Debug/net8.0/bubbleSort.genruntimeconfig.cache
+/home/veras/Veras/scripts/cSharpArticles/bubbleSort/obj/Debug/net8.0/ref/bubbleSort.dll
